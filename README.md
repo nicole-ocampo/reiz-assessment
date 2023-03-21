@@ -1,24 +1,22 @@
-# reiz_assessment
+# Reiz Tech Assessment
+
+This project is part of my application to Reiz Tech's Front-end Developer Internship position.
 
 ## Project setup
+To install the dependencies needed for this project, run:
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+To run the application, run:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Application access
+To access the application, enter the following into your browser:
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+http://localhost:8080/ 
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
